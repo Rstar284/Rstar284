@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a unity game
+- 🔭 I’m currently working on a my bot again
 - 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on my bot
 - 🤔 I’m looking for help with my bot
 - 💬 Ask me about anything you want
-- 📫 How to reach me: DM me in discord at Rstar#3577 and the server im mostly active in: <a href="https://discord.gg/code">TCD</a>
+- 📫 How to reach me: DM me in discord at Rstar#3577 and the server im mostly active in: <a href="https://discord.gg/code">TCD</a> in the #general-1 channel, cuz off-topic 
 - 😄 Pronouns: He/Him/It
 - ⚡ Fun fact: Facts are not fun
 - 
