@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a my bot again
-- 🌱 I’m currently learning C# again
+- 🔭 I’m currently working multiple projects
+- 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on anything really
 - 🤔 I’m looking for help with things
 - 💬 Ask me about anything you want
