@@ -10,7 +10,8 @@
 - 😄 Pronouns: It>They/Them>any
 - ⚡ Fun fact: ~~Facts are not fun~~ I am non binary :)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rstar284.rstar284&left_color=green&right_color=red)
 
 <a href="https://github.com/Rstar284/">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Rstar284&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
