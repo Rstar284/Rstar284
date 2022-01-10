@@ -12,6 +12,9 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+Join my discord server: https://rstar284.tk/discord
+Read more about me: https://rstar284.tk/aboutme
+
 <a href="https://github.com/Rstar284/">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Rstar284&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
