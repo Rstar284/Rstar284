@@ -21,4 +21,4 @@ Listen to my favorite song! https://rstar284.tk/favsong. Im not responsible for 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rstar284&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-<img src="https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/rstar-01FSBYHF70WTM1R0NW19TBN3FY-dark.png" width=300>
+<img src="https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/rstar-01FSBYHF70WTM1R0NW19TBN3FY-dark.png" width=500>
