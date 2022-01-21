@@ -27,7 +27,7 @@ Listen to my favorite song! https://rstar284.tk/favsong. Im not responsible for 
 
 <div align="middle">
   <a>
-    <img src="https://lanyard-profile-readme.vercel.app/api/699569487678013471">
+    <img src="https://lanyard.cnrad.dev/api/699569487678013471">
   </a>
 </div>
 
