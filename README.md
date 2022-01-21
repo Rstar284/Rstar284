@@ -24,3 +24,10 @@ Listen to my favorite song! https://rstar284.tk/favsong. Im not responsible for 
 <p align="center"> <a href="https://github.com/Rstar284"><img src="https://github-profile-trophy.vercel.app/?username=Rstar284&margin-w=5&theme=radical" alt="Rstar284" /></a> </p>
 
 <img src="https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/rstar-01FSBYHF70WTM1R0NW19TBN3FY-dark.png" width=500>
+
+<div align="middle">
+  <a>
+    <img src="https://lanyard-profile-readme.vercel.app/api/699569487678013471">
+  </a>
+</div>
+
