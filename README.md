@@ -31,3 +31,13 @@ Listen to my favorite song! https://rstar284.tk/favsong. Im not responsible for 
   </a>
 </div>
 
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rstar284&theme=solarized_dark" width="800" />
+    <br />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rstar284&theme=solarized_dark" />
+</div>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rstar284&theme=solarized_dark" width="390" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rstar284&theme=solarized_dark" width="390" />
+</div>
