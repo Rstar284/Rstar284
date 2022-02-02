@@ -1,4 +1,4 @@
-### Hi there 👋 Hallo ich bin Rstar, wie macsht du?
+### Hi there 👋
 
 
 - 🔭 I’m currently working multiple projects
