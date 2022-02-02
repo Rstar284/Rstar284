@@ -23,15 +23,6 @@ Listen to my favorite song! https://rstar284.tk/favsong. Im not responsible for 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rstar284&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Rstar284" /></p>
 <p align="center"> <a href="https://github.com/Rstar284"><img src="https://github-profile-trophy.vercel.app/?username=Rstar284&margin-w=5&theme=radical" alt="Rstar284" /></a> </p>
 
-<img src="https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/rstar-01FSBYHF70WTM1R0NW19TBN3FY-dark.png" width=500>
-
-<div align="middle">
-  <a>
-    <img src="https://lanyard.cnrad.dev/api/699569487678013471">
-  </a>
-</div>
-
-
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rstar284&theme=solarized_dark" width="800" />
     <br />
