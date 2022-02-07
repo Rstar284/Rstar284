@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anything really
 - 🤔 I’m looking for help with things
 - 💬 Ask me about anything you want
-- 📫 How to reach me: DM me in discord at Rstar#3393 and the server im mostly active in: <a href="https://discord.gg/code">TCD</a> in the #general-1 channel, cuz off-topic 
+- 📫 How to reach me: DM me in discord at Rstar#3393
 - 😄 Pronouns: It>They/Them>any
 - ⚡ Fun fact: ~~Facts are not fun~~ I am non binary :)
 
