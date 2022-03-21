@@ -10,8 +10,6 @@
 - 😄 Pronouns: It>They/Them>any
 - ⚡ Fun fact: ~~Facts are not fun~~ I am non binary :)
 
-Listen to my favorite song! https://rstar284.tk/favsong. Im not responsible for any damage caused to you.
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <a href="https://github.com/Rstar284/">
