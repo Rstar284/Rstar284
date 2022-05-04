@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working multiple projects
-- 🌱 I’m currently learning rust
+- 🔭 I’m currently working multiple projects, programmer moment
+- 🌱 I’m currently learning ruby
 - 👯 I’m looking to collaborate on anything really
 - 🤔 I’m looking for help with things
 - 💬 Ask me about anything you want
-- 📫 How to reach me: DM me in discord at Rstar#3393
-- 😄 Pronouns: It>They/Them>any
-- ⚡ Fun fact: ~~Facts are not fun~~ I am non binary :)
+- 📫 How to reach me: DM me in discord at rubyyy#6017
+- 😄 Pronouns: she/her>any
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
