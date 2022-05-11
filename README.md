@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on anything really
 - 🤔 I’m looking for help with things
 - 💬 Ask me about anything you want
-- 📫 How to reach me: DM me in discord at rubyyy#6017
-- 😄 Pronouns: she/her>any
+- 📫 How to reach me: DM me in discord at `Rstar#3393`, (ps: i probably wont respond)
+- 😄 Pronouns: any
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
